@@ -1,2 +1,2 @@
-hello ru
+hello rub
 abcdef
